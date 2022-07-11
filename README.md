@@ -26,4 +26,4 @@ Abrir o arquivo index.html no navegador ou utilizar alguma extensão capaz de ex
 
 ---
 ## Status
-[x] Concluído
+- [x] Concluído
