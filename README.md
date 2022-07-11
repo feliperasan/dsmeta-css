@@ -5,7 +5,7 @@ Projeto criado para revisar conceitos de Hyper Text Markup Language 5 (HTML5) e 
 
 ---
 ## Funcionalidades
-- [x] Tabela de usuários com linha e colunas;
+- [x] Tabela de usuários com linhas e colunas;
 - [x] Botão para envio de mensagem;
 - [x] Campos de filtro de vendas;
 - [x] Responsividade em 576px, e 992px;
