@@ -1,5 +1,5 @@
 # DSMeta
-Projeto criado para revisar conceitos de Hyper Text Markup Language 5 (HTML5) e Cascanding Style Sheets (CSS), cujo projeto, tem como objetivo ilustrar um sistema que exibe usuários e suas vendas, contando com campos em que é possível filtrar usuários através da interface.
+Projeto criado para revisar conceitos de Hypertext Markup Language 5 (HTML5) e Cascanding Style Sheets (CSS), cujo projeto, tem como objetivo ilustrar um sistema que exibe usuários e suas vendas, contando com campos em que é possível filtrar usuários através da interface.
 
 ![DSMeta1.svg](https://gitlab.com/feliperasan/dsmeta-css/uploads/7064821f5769b4b75b2b47d3c4b8cd2b/DSMeta1.svg)
 
